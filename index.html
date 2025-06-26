@@ -67,7 +67,7 @@
     <main>
         <section>
             <h2>Sobre o Projeto</h2>
-            <p>O Impacto Aberto é um projeto desenvolvido por estudantes do Firjan SESI Jacarepaguá, com o objetivo de mobilizar a comunidade escolar para encontrar soluções para problemas relacionados ao meio ambiente e também questões que impactam diretamente a vida escolar.</p>
+            <p>O Impacto Aberto é um projeto desenvolvido por estudantes do Firjan SESI Jacarepaguá, que busca conectar trabalhadores, colaboradores e a comunidade industrial para identificar e solucionar problemas ambientais e operacionais dentro das indústrias, promovendo um ambiente mais sustentável e saudável para todos..</p>
         </section>
 
         <section>
